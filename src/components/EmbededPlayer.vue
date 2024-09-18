@@ -23,7 +23,7 @@
       v-if="!submitUrl"
       v-model="rawUrl"
       color="red"
-      placeholder="Youtube URL"
+      placeholder="Insert Youtube URL:"
       outlined
       clearable
       dense
